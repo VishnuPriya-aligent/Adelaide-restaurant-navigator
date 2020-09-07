@@ -14,7 +14,7 @@ node -v
 v8.11.3
 npm -v
 5.6.0
-Run npm install in cloned project folder. For example, if you clone the project to /opt/zomato, then in your terminal, input commands below:
+Run npm install in cloned project folder. For example, if you clone the project to /"local path"/, then in your terminal, input commands below:
 
 cd /"local path of your project"
 
