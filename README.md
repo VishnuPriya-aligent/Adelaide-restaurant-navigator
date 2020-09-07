@@ -8,8 +8,10 @@ By scrolling down in search results list, it will load an extra 20 restaurants d
 
 
 How to Run It
-Clone project to your local, make sure npm is stalled on your machine. Recommended version is:
+Please create new folder "public" within and move the "AdelaideSketch.jpg" file into the folder.
+Please create new "src" folder within the "Adelaide-restaurant-navigator-master" folder and move all the code files to it.
 
+Clone project to your local, make sure npm is stalled on your machine. Recommended version is:
 node -v
 v8.11.3
 npm -v
@@ -17,7 +19,6 @@ npm -v
 Run npm install in cloned project folder. For example, if you clone the project to /"local path"/, then in your terminal, input commands below:
 
 cd /"local path of your project"
-
 npm install
 After that, run npm start to start server, then go to http://localhost:3000/ to try it.
 
