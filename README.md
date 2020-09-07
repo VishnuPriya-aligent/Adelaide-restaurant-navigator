@@ -1,2 +1,0 @@
-# Adelaide-restuarant-navigator
- 
